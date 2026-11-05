@@ -1,0 +1,100 @@
+{
+ "FD001": {
+  "rules": [
+   {
+    "rule": 5,
+    "ante": "NRc trend is LOW AND Nc trend is LOW AND Nf trend is LOW",
+    "rul": 125.0,
+    "fou": 1.2356396913528442,
+    "support": 0.10345401614904404
+   },
+   {
+    "rule": 1,
+    "ante": "NRc trend is LOW AND Nc trend is LOW AND Nf trend is LOW",
+    "rul": 125.0,
+    "fou": 1.2516950368881226,
+    "support": 0.09334620833396912
+   },
+   {
+    "rule": 11,
+    "ante": "NRc trend is LOW AND Nc trend is LOW AND NRf trend is LOW",
+    "rul": 125.0,
+    "fou": 1.2389378547668457,
+    "support": 0.09287950396537781
+   },
+   {
+    "rule": 9,
+    "ante": "htBleed trend is MEDIUM AND T24 level is HIGH AND T24 trend is MEDIUM",
+    "rul": 21.84249496459961,
+    "fou": 1.2920055389404297,
+    "support": 0.08411997556686401
+   },
+   {
+    "rule": 14,
+    "ante": "Ps30 trend is MEDIUM AND Nf trend is MEDIUM AND phi trend is MEDIUM",
+    "rul": 13.293057441711426,
+    "fou": 1.2844020128250122,
+    "support": 0.07900865375995636
+   },
+   {
+    "rule": 12,
+    "ante": "Nc trend is MEDIUM AND NRc trend is MEDIUM AND T24 trend is MEDIUM",
+    "rul": 10.393388748168945,
+    "fou": 1.2796882390975952,
+    "support": 0.07043319195508957
+   }
+  ],
+  "fou_mean": 1.3105093240737915,
+  "fou_min": 1.20938241481781,
+  "fou_max": 1.3941689729690552
+ },
+ "FD002": {
+  "rules": [
+   {
+    "rule": 14,
+    "ante": "W32 trend is MEDIUM AND P30 trend is LOW AND NRf trend is MEDIUM",
+    "rul": 19.27722930908203,
+    "fou": 1.2057784795761108,
+    "support": 0.09918786585330963
+   },
+   {
+    "rule": 4,
+    "ante": "T30 trend is MEDIUM AND W32 trend is MEDIUM AND T50 trend is MEDIUM",
+    "rul": 4.677064895629883,
+    "fou": 1.2096235752105713,
+    "support": 0.0904705673456192
+   },
+   {
+    "rule": 10,
+    "ante": "NRc trend is LOW AND Nc trend is LOW AND BPR trend is LOW",
+    "rul": 118.07390594482422,
+    "fou": 1.1894334554672241,
+    "support": 0.08355002850294113
+   },
+   {
+    "rule": 1,
+    "ante": "NRc trend is LOW AND Nc trend is LOW AND NRc level is LOW",
+    "rul": 125.0,
+    "fou": 1.1570788621902466,
+    "support": 0.07620463520288467
+   },
+   {
+    "rule": 8,
+    "ante": "T50 level is LOW AND BPR level is LOW AND Ps30 level is LOW",
+    "rul": 52.5366325378418,
+    "fou": 1.2040666341781616,
+    "support": 0.07505472749471664
+   },
+   {
+    "rule": 2,
+    "ante": "NRc trend is LOW AND Nc trend is LOW AND NRf trend is LOW",
+    "rul": 125.0,
+    "fou": 1.1254783868789673,
+    "support": 0.0709119588136673
+   }
+  ],
+  "fou_mean": 1.2582817077636719,
+  "fou_min": 1.078719973564148,
+  "fou_max": 1.4048820734024048
+ }
+}
